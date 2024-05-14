@@ -1,7 +1,7 @@
 import './App.css';
 import { Link, Route, Routes } from "react-router-dom";
-import HomePage from "./page/HomePage";
-import ReactQueryPage from "./page/ReactQueryPage";
+import HomePage from "./HomePage";
+import ReactQueryPage from "./ReactQueryPage";
 
 function App() {
   return (
